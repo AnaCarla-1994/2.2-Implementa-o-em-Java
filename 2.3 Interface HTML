@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="/login" method="post"
+<label>Usuário:</label><br>
+<input type="text" name="user"><br>
+<label>Senha:</label><br>
+<input type="password" name="pass"><br>
+<input type="submit"value="Login">
+</form>
+</body>
+</html>
